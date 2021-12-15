@@ -1,0 +1,24 @@
+.about {
+    margin: auto;
+    margin-top: 20px;
+    width: 28rem;
+    border-radius: 10px;
+    box-shadow: 10px 10px 4px #111;
+    border: 3px solid #545455;
+    background-color: #f2f2f2 !important;
+    padding: 10px;
+    justify-content: center;
+  }
+  .about container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .acerca-body {
+    margin-top: 0px !important;
+    background-color: #f2f2f2;
+    padding-top: 0px !important;
+   
+  }

@@ -1,0 +1,10 @@
+body{
+  background-image: url(../img/9.jpg);
+  
+  background-size: content ;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
